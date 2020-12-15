@@ -83,5 +83,5 @@ To run the non-random anchoring attack (NRAA):
 python run_gradient_em_attack.py --em_iter 0 --total_grad_iter 10000 --dataset german --use_slab --epsilon 0.1 --method NRAA --sensitive_feature_idx 36 --sensitive_attr_filename german_group_label.npz
 ```
 
-#Contact  
+# Contact  
 If you have questions you can contact ninarehm at usc.edu
