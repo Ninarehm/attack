@@ -52,17 +52,17 @@ institution = "University of California, Irvine, School of Information and Compu
 }
  ```
 # Tested Environments 
-The code was tested in different environments. The following requirements would work:
-Python 3.6
-1.11.0 < Tensorflow <= 1.12.3
-0.20.3 <= scikit-learn <= 0.23.1
-cvxpy 0.4.11
-CVXcanon <= 0.1.1
-scipy 1.1.0
-0.23 <= Pandas <= 1.1.4
-Matplotlib <= 3.3.3
-seaborn <= 0.11.0
-IPython <= 7.16.1
+The code was tested in different environments. The following requirements would work:  
+Python 3.6  
+1.11.0 < Tensorflow <= 1.12.3  
+0.20.3 <= scikit-learn <= 0.23.1  
+cvxpy 0.4.11  
+CVXcanon <= 0.1.1  
+scipy 1.1.0  
+0.23 <= Pandas <= 1.1.4  
+Matplotlib <= 3.3.3  
+seaborn <= 0.11.0  
+IPython <= 7.16.1  
 
 
 # Running Instructions
@@ -83,5 +83,5 @@ To run the non-random anchoring attack (NRAA):
 python run_gradient_em_attack.py --em_iter 0 --total_grad_iter 10000 --dataset german --use_slab --epsilon 0.1 --method NRAA --sensitive_feature_idx 36 --sensitive_attr_filename german_group_label.npz
 ```
 
-#Contact
-If you have questions you can contact ninarehm@usc.edu
+#Contact  
+If you have questions you can contact ninarehm at usc.edu
