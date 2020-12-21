@@ -1,7 +1,5 @@
 # Exacerbating Algorithmic Bias through Fairness Attacks
-This repository contains code for the introduced attacks in [Exacerbating Algorithmic Bias through Fairness Attacks](https://arxiv.org/pdf/2012.08723.pdf) paper. If you find it useful please cite:
-
-This code builds upon the code developed by Pang Wei Koh and Percy Liang in 2017. We have left their LICENSE.md file to give due credit to these researchers, and to document that their license allows us to build upon their work. Please also give them credit by citing: 
+This repository contains code for the introduced attacks in [Exacerbating Algorithmic Bias through Fairness Attacks](https://arxiv.org/pdf/2012.08723.pdf) paper. If you find it useful please cite: 
 ```
 @article{mehrabi2020exacerbating,
   title={Exacerbating Algorithmic Bias through Fairness Attacks},
@@ -10,6 +8,9 @@ This code builds upon the code developed by Pang Wei Koh and Percy Liang in 2017
   year={2020}
 }
 ```
+
+This code builds upon the code developed by Pang Wei Koh and Percy Liang in 2017. We have left their LICENSE.md file to give due credit to these researchers, and to document that their license allows us to build upon their work. Please also give them credit by citing: 
+
  ```
 @article{koh2018stronger,
   title={Stronger data poisoning attacks break data sanitization defenses},
