@@ -51,7 +51,7 @@ title = "{UCI} Machine Learning Repository",
 url = "http://archive.ics.uci.edu/ml",
 institution = "University of California, Irvine, School of Information and Computer Sciences" }
  ```
-	For the COMPAS dataset cite:
+ For the COMPAS dataset cite: 	
  ```
 @article{larson2016compas,
   title={Compas analysis},
